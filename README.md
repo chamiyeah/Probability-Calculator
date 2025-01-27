@@ -2,6 +2,8 @@
 
 This project is a Probability Calculator built using Python and Streamlit. It provides a user-friendly interface for calculating various probability functions, including Probability Density Function (PDF), Cumulative Distribution Function (CDF), Probability Mass Function (PMF), Variance, Expected Value, and Cross Probability functions. The application is designed to help students understand the calculations involved through detailed step-by-step explanations.
 
+This calculater is made from python and has used streamlit for GUI. Step by step explanations are still a bit mess, but working on it. 
+
 ## Features
 
 - **PDF Calculation**: Calculate the Probability Density Function with detailed steps.
@@ -10,6 +12,7 @@ This project is a Probability Calculator built using Python and Streamlit. It pr
 - **Variance Calculation**: Compute the variance of a random variable with detailed explanations.
 - **Expected Value Calculation**: Calculate the expected value (E(X)) for both PDF and PMF inputs with step-by-step guidance.
 - **Cross Probability Calculation**: Calculate cross probabilities, including Pmf Y given X and Pmf of X given Y, with user-defined functions.
+- **Distribution Calculation** Poisson and Binomial.
 
 ## Installation
 
@@ -17,7 +20,7 @@ To run this project, you need to have Python installed on your machine. You can 
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone chamiyeah/Probability-Calculator
    cd probability-calculator
    ```
 
